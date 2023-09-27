@@ -15,7 +15,7 @@
 ![Alt Text](images/schematic.jpg)
 
 # Sensor Used:
-- Robodo SEL18 Water level sensor and depth detection.
+- Robodo SEN18 Water level sensor and depth detection.
 - Description:
  Water level sensors are electronic devices designed to measure the level or depth of water in a tank, reservoir, well or other containers. They are commonly used in various applications, including industrial automation, agriculture, environmental monitoring and home automation. The level of water can be an essential parameter in controlling processes, ensuring water availability and preventing overflows or shortages.
 - Features and functionalities:
@@ -53,7 +53,7 @@
 ![Alt Text](images/Experiment.jpg)
 ![Alt Text](images/Experimental_setup.jpg)
 
-# Explaination
+# Explanation
 
 - `i2c = board.I2C()` initializes the I2C communication using the board module, which automatically selects the appropriate SDA and SCL pins for your specific board.
 - `ads = ADS.ADS1115(i2c)` initializes the Adafruit ADS1115 ADC using the I2C interface. This sets up the ADC for reading analog values.
