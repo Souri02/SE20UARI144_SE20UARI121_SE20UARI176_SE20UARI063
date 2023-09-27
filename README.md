@@ -15,7 +15,7 @@
 ![Alt Text](images/schematic.jpg)
 
 # Sensor Used:
-- Robodo SEN18 Water level sensor and depth detection.
+- Robodo SEL18 Water level sensor and depth detection.
 - Description:
  Water level sensors are electronic devices designed to measure the level or depth of water in a tank, reservoir, well or other containers. They are commonly used in various applications, including industrial automation, agriculture, environmental monitoring and home automation. The level of water can be an essential parameter in controlling processes, ensuring water availability and preventing overflows or shortages.
 - Features and functionalities:
